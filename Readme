@@ -1,8 +1,8 @@
 
-A project for a fictional e-commerce company called "E-Shop" that wants to build a data engineering solution on AWS to analyze customer behavior, sales trends, and product performance.
+### A project for a fictional e-commerce company called "E-Shop" that wants to build a data engineering solution on AWS to analyze customer behavior, sales trends, and product performance.
 
-Project Goals and Requirements:
-Objective: Analyze customer behavior, sales trends, and product performance to improve marketing strategies, inventory management, and product recommendations.
++ **Project Goals and Requirements:**
+**Objective:** Analyze customer behavior, sales trends, and product performance to improve marketing strategies, inventory management, and product recommendations.
 Scope: Ingest data from various sources such as website logs, transaction databases, and product databases. Process and transform the data for analysis and store it for querying and visualization.
 Data Sources: Website logs, transaction databases (e.g., MySQL), product databases (e.g., MongoDB).
 Design Data Architecture:
